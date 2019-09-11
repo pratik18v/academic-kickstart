@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Teaching"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "CSE 508: Network Security"
+  company = "Course Instructor: [Amir Rahmati](https://amir.rahmati.com/)"
+  company_url = "https://amir.rahmati.com/teaching/cse508f19/"
+  location = "Stony Brook University"
+  date_start = "2019-08-26"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = ""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "CSE 527: Introduction to Computer Vision"
+  company = "Course Instructor: [Roy Shilkrot](https://scholar.google.com/citations?user=WXV9HW4AAAAJ&hl=en)"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Stony Brook University"
+  date_start = "2019-01-15"
+  date_end = "2019-05-20"
+  description = ""
+
+[[experience]]
+  title = "CSE 512: Machine Learning"
+  company = "Course Instructor: [Minh Hoai Nguyen](https://www3.cs.stonybrook.edu/~minhhoai/)"
+  company_url = "https://www3.cs.stonybrook.edu/~minhhoai/courses/cse512_fall18/index.html"
+  location = "Stony Brook University"
+  date_start = "2018-08-26"
+  date_end = "2018-12-20"
+  description = ""
 
 +++
