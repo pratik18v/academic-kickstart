@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
-  title = "CSE 527: Introduction to Computer Vision"
+  title = "[CSE 527: Introduction to Computer Vision](https://www.cs.stonybrook.edu/students/Graduate-Studies/courses/CSE527)"
   company = "Course Instructor: [Roy Shilkrot](https://scholar.google.com/citations?user=WXV9HW4AAAAJ&hl=en)"
   company_url = ""
   location = "Stony Brook University"
