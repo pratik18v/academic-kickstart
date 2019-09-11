@@ -18,9 +18,9 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CSE 508: Network Security"
+  title = "[CSE 508: Network Security](https://amir.rahmati.com/teaching/cse508f19/)"
   company = "Course Instructor: [Amir Rahmati](https://amir.rahmati.com/)"
-  company_url = "https://amir.rahmati.com/teaching/cse508f19/"
+  company_url = ""
   location = "Stony Brook University"
   date_start = "2019-08-26"
   date_end = ""
@@ -36,9 +36,9 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
-  title = "CSE 512: Machine Learning"
+  title = "[CSE 512: Machine Learning](https://www3.cs.stonybrook.edu/~minhhoai/courses/cse512_fall18/index.html)"
   company = "Course Instructor: [Minh Hoai Nguyen](https://www3.cs.stonybrook.edu/~minhhoai/)"
-  company_url = "https://www3.cs.stonybrook.edu/~minhhoai/courses/cse512_fall18/index.html"
+  company_url = ""
   location = "Stony Brook University"
   date_start = "2018-08-26"
   date_end = "2018-12-20"
