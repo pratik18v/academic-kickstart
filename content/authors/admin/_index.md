@@ -34,7 +34,7 @@ education:
     institution: Stony Brook University
     year: 2018
   - course: BTech in Electronics Engineering
-    institution: Sardar Vallabhbhai National Institute of Technology, Surat
+    institution: Sardar Vallabhbhai National Institute of Technology
     year: 2016
 
 # Social/Academic Networking
