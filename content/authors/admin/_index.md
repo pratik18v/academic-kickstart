@@ -29,13 +29,13 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: Stony Brook University
-    year: 2018 - present
+    year:
   - course: MS in Computer Science
     institution: Stony Brook University
-    year: 2016 - 2018
+    year: 2018
   - course: BTech in Electronics Engineering
     institution: Sardar Vallabhbhai National Institute of Technology, Surat
-    year: 2012 - 2016
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -45,15 +45,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:pvaishnavi@cs.stonybrook.edu"
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=OUrkfK4AAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/pratik18v
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/pratik18v/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -69,4 +69,4 @@ user_groups:
 - Ethos Lab
 ---
 
-I am a second year Computer Science PhD student at Stony Brook University, advised by [Amir Rahmati](https://amir.rahmati.com/). My research falls under the umbrella of Adversarial Machine Learning. More specifically, I investigate techniques that can improve robustness of visual recognition models.
+I am a second year Computer Science PhD student at Stony Brook University, advised by [Amir Rahmati](https://amir.rahmati.com/). My research falls under the umbrella of Adversarial Machine Learning. More specifically, I investigate techniques that can improve robustness of visual recognition models against adversarial attacks.
