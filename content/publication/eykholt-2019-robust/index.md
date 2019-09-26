@@ -1,7 +1,7 @@
 ---
 title: "Robust Classification using Robust Feature Augmentation"
 date: 2019-01-01
-publishDate: 2019-09-26T20:53:23.248564Z
+publishDate: 2019-09-26T21:10:02.170310Z
 authors: ["Kevin Eykholt", "Swati Gupta", "Atul Prakash", "Amir Rahmati", "Pratik Vaishnavi", "Haizhong Zheng"]
 publication_types: ["0"]
 abstract: ""
