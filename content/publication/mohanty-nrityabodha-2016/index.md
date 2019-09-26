@@ -1,7 +1,7 @@
 ---
 title: "Nrityabodha: towards understanding indian classical dance using a deep learning approach"
 date: 2016-01-01
-publishDate: 2019-09-16T04:01:49.917480Z
+publishDate: 2019-09-26T20:53:23.241064Z
 authors: ["Aparna Mohanty", "Pratik Vaishnavi", "Prerana Jana", "Anubhab Majumdar", "Alfaz Ahmed", "Trishita Goswami", "Rajiv R. Sahay"]
 publication_types: ["2"]
 abstract: ""
